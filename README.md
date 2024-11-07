@@ -1,2 +1,1 @@
-# corso_training
-Bootstrap 5 Website Project
+# bootstr_prj_E-book
